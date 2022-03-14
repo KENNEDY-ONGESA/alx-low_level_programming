@@ -16,9 +16,9 @@ int main(void)
 	j = 48;
 
 	while (i < 58)
-	{ 
+	{
 		j = i + 1;
-		while (i < 58)
+		while (j < 58)
 		{
 			putchar(i);
 			putchar(j);
