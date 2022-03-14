@@ -1,25 +1,22 @@
 #include <stdio.h>
 
 /**
- * main - print single digit numbers
+ * main - print the letter of the alphabet
  *
- * Description: print single digit numbers
+ * Description: print the alphabet in reverse
  *
  * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	int i;
+	int i = 122;
 
-	i = 48;
-
-	while (i < 58)
+	while (i > 96)
 	{
 		putchar(i);
-		i++;
+		i--;
 	}
-
 	putchar(10);
 
 	return (0);

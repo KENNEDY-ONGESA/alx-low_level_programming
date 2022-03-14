@@ -12,9 +12,9 @@ int main(void)
 {
 	int i;
 
-	i = 38;
+	i = 48;
 
-	while (i < 48)
+	while (i < 58)
 	{
 		putchar(i);
 		i++;
