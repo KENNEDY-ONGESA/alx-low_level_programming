@@ -3,11 +3,13 @@
 /**
  * main - list all natural numbers multiples of 3 & 5
  *
- * return: always 0
+ *Description: prints multiples of 3 & 5
+ * 
+ * Return: Always 0
  */
 
 int main(void)
-{ 
+{
 	int num, sum;
 
 	sum = 0;
