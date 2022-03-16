@@ -4,7 +4,7 @@
  * main - list all natural numbers multiples of 3 & 5
  *
  *Description: prints multiples of 3 & 5
- * 
+ *
  * Return: Always 0
  */
 
