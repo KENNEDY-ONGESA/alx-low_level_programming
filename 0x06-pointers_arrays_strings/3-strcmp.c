@@ -18,13 +18,28 @@ int my_strcmp(char s1[], char s2[])
 		}
 		int a1 = (int) s1[i];
 		int a2 = (int) s2[i];
-		if(s1 > s2)
-		{
+		if(a1 > a2)
 			return 1;
-		}
-		if(s2 > s1)
-		{
+		if(a2 > a2)
 			return -1;
-		}
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
