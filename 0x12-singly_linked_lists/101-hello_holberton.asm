@@ -2,7 +2,7 @@
 
         section .data
 hello:
-        db "Hello, World", 10
+        db "Hello, Holberton", 10
 
         section   .text
 _start:
